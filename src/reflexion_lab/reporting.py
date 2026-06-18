@@ -18,9 +18,19 @@ def summarize(records: list[RunRecord]) -> dict:
 
 def failure_breakdown(records: list[RunRecord]) -> dict:
     grouped: dict[str, Counter] = defaultdict(Counter)
+    overall: Counter = Counter()
     for record in records:
         grouped[record.agent_type][record.failure_mode] += 1
-    return {agent: dict(counter) for agent, counter in grouped.items()}
+        overall[record.failure_mode] += 1
+    return {
+        "overall": dict(overall),
+        "by_agent": {agent: dict(counter) for agent, counter in grouped.items()},
+        "analyzed_modes": {
+            "entity_drift": "The answer names a plausible nearby entity instead of the final entity supported by the second hop.",
+            "incomplete_multi_hop": "The answer stops after an intermediate fact and never resolves the final requested relation.",
+            "wrong_final_answer": "The answer completes the format of the response but chooses an unsupported final entity.",
+        },
+    }
 
 def build_report(records: list[RunRecord], dataset_name: str, mode: str = "mock") -> ReportPayload:
     examples = [{"qid": r.qid, "agent_type": r.agent_type, "gold_answer": r.gold_answer, "predicted_answer": r.predicted_answer, "is_correct": r.is_correct, "attempts": r.attempts, "failure_mode": r.failure_mode, "reflection_count": len(r.reflections)} for r in records]

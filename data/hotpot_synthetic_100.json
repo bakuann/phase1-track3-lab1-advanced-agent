@@ -1,0 +1,1602 @@
+﻿[
+    {
+        "qid":  "hp1_case001",
+        "difficulty":  "easy",
+        "question":  "Which university did the author of The Hobbit teach at?",
+        "gold_answer":  "Oxford University",
+        "context":  [
+                        {
+                            "title":  "J. R. R. Tolkien",
+                            "text":  "J. R. R. Tolkien wrote The Hobbit and was a professor at Oxford University."
+                        },
+                        {
+                            "title":  "Oxford University",
+                            "text":  "Oxford University is a collegiate research university in Oxford, England."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp2_case002",
+        "difficulty":  "medium",
+        "question":  "What river flows through the city where Ada Lovelace was born?",
+        "gold_answer":  "River Thames",
+        "context":  [
+                        {
+                            "title":  "Ada Lovelace",
+                            "text":  "Ada Lovelace was born in London, England."
+                        },
+                        {
+                            "title":  "London",
+                            "text":  "London is crossed by the River Thames."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp3_case003",
+        "difficulty":  "easy",
+        "question":  "What instrument did the composer of The Four Seasons mainly play?",
+        "gold_answer":  "violin",
+        "context":  [
+                        {
+                            "title":  "The Four Seasons",
+                            "text":  "The Four Seasons is a group of violin concertos by Antonio Vivaldi."
+                        },
+                        {
+                            "title":  "Antonio Vivaldi",
+                            "text":  "Antonio Vivaldi was an Italian Baroque composer and virtuoso violinist."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp4_case004",
+        "difficulty":  "medium",
+        "question":  "Which ocean borders the country whose capital is Lima?",
+        "gold_answer":  "Pacific Ocean",
+        "context":  [
+                        {
+                            "title":  "Lima",
+                            "text":  "Lima is the capital city of Peru."
+                        },
+                        {
+                            "title":  "Peru",
+                            "text":  "Peru borders the Pacific Ocean."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp5_case005",
+        "difficulty":  "easy",
+        "question":  "What field did the scientist who proposed the three laws of motion study in addition to physics?",
+        "gold_answer":  "mathematics",
+        "context":  [
+                        {
+                            "title":  "Isaac Newton",
+                            "text":  "Isaac Newton formulated the laws of motion and was a physicist and mathematician."
+                        },
+                        {
+                            "title":  "Laws of motion",
+                            "text":  "The three laws of motion are attributed to Isaac Newton."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp6_case006",
+        "difficulty":  "hard",
+        "question":  "What sea borders the country where Petra is located?",
+        "gold_answer":  "Dead Sea",
+        "context":  [
+                        {
+                            "title":  "Petra",
+                            "text":  "Petra is a historical city in Jordan."
+                        },
+                        {
+                            "title":  "Jordan",
+                            "text":  "Jordan borders the Dead Sea to the west."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp7_case007",
+        "difficulty":  "medium",
+        "question":  "Which language family does the primary language of Brazil belong to?",
+        "gold_answer":  "Romance",
+        "context":  [
+                        {
+                            "title":  "Brazil",
+                            "text":  "The official language of Brazil is Portuguese."
+                        },
+                        {
+                            "title":  "Portuguese language",
+                            "text":  "Portuguese is a Romance language."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp8_case008",
+        "difficulty":  "hard",
+        "question":  "Which mountain range contains the highest mountain in the country whose capital is Kathmandu?",
+        "gold_answer":  "Himalayas",
+        "context":  [
+                        {
+                            "title":  "Kathmandu",
+                            "text":  "Kathmandu is the capital city of Nepal."
+                        },
+                        {
+                            "title":  "Nepal",
+                            "text":  "Mount Everest, the highest mountain in Nepal, is part of the Himalayas."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp1_case009",
+        "difficulty":  "easy",
+        "question":  "Which university did the author of The Hobbit teach at?",
+        "gold_answer":  "Oxford University",
+        "context":  [
+                        {
+                            "title":  "J. R. R. Tolkien",
+                            "text":  "J. R. R. Tolkien wrote The Hobbit and was a professor at Oxford University."
+                        },
+                        {
+                            "title":  "Oxford University",
+                            "text":  "Oxford University is a collegiate research university in Oxford, England."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp2_case010",
+        "difficulty":  "medium",
+        "question":  "What river flows through the city where Ada Lovelace was born?",
+        "gold_answer":  "River Thames",
+        "context":  [
+                        {
+                            "title":  "Ada Lovelace",
+                            "text":  "Ada Lovelace was born in London, England."
+                        },
+                        {
+                            "title":  "London",
+                            "text":  "London is crossed by the River Thames."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp3_case011",
+        "difficulty":  "easy",
+        "question":  "What instrument did the composer of The Four Seasons mainly play?",
+        "gold_answer":  "violin",
+        "context":  [
+                        {
+                            "title":  "The Four Seasons",
+                            "text":  "The Four Seasons is a group of violin concertos by Antonio Vivaldi."
+                        },
+                        {
+                            "title":  "Antonio Vivaldi",
+                            "text":  "Antonio Vivaldi was an Italian Baroque composer and virtuoso violinist."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp4_case012",
+        "difficulty":  "medium",
+        "question":  "Which ocean borders the country whose capital is Lima?",
+        "gold_answer":  "Pacific Ocean",
+        "context":  [
+                        {
+                            "title":  "Lima",
+                            "text":  "Lima is the capital city of Peru."
+                        },
+                        {
+                            "title":  "Peru",
+                            "text":  "Peru borders the Pacific Ocean."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp5_case013",
+        "difficulty":  "easy",
+        "question":  "What field did the scientist who proposed the three laws of motion study in addition to physics?",
+        "gold_answer":  "mathematics",
+        "context":  [
+                        {
+                            "title":  "Isaac Newton",
+                            "text":  "Isaac Newton formulated the laws of motion and was a physicist and mathematician."
+                        },
+                        {
+                            "title":  "Laws of motion",
+                            "text":  "The three laws of motion are attributed to Isaac Newton."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp6_case014",
+        "difficulty":  "hard",
+        "question":  "What sea borders the country where Petra is located?",
+        "gold_answer":  "Dead Sea",
+        "context":  [
+                        {
+                            "title":  "Petra",
+                            "text":  "Petra is a historical city in Jordan."
+                        },
+                        {
+                            "title":  "Jordan",
+                            "text":  "Jordan borders the Dead Sea to the west."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp7_case015",
+        "difficulty":  "medium",
+        "question":  "Which language family does the primary language of Brazil belong to?",
+        "gold_answer":  "Romance",
+        "context":  [
+                        {
+                            "title":  "Brazil",
+                            "text":  "The official language of Brazil is Portuguese."
+                        },
+                        {
+                            "title":  "Portuguese language",
+                            "text":  "Portuguese is a Romance language."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp8_case016",
+        "difficulty":  "hard",
+        "question":  "Which mountain range contains the highest mountain in the country whose capital is Kathmandu?",
+        "gold_answer":  "Himalayas",
+        "context":  [
+                        {
+                            "title":  "Kathmandu",
+                            "text":  "Kathmandu is the capital city of Nepal."
+                        },
+                        {
+                            "title":  "Nepal",
+                            "text":  "Mount Everest, the highest mountain in Nepal, is part of the Himalayas."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp1_case017",
+        "difficulty":  "easy",
+        "question":  "Which university did the author of The Hobbit teach at?",
+        "gold_answer":  "Oxford University",
+        "context":  [
+                        {
+                            "title":  "J. R. R. Tolkien",
+                            "text":  "J. R. R. Tolkien wrote The Hobbit and was a professor at Oxford University."
+                        },
+                        {
+                            "title":  "Oxford University",
+                            "text":  "Oxford University is a collegiate research university in Oxford, England."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp2_case018",
+        "difficulty":  "medium",
+        "question":  "What river flows through the city where Ada Lovelace was born?",
+        "gold_answer":  "River Thames",
+        "context":  [
+                        {
+                            "title":  "Ada Lovelace",
+                            "text":  "Ada Lovelace was born in London, England."
+                        },
+                        {
+                            "title":  "London",
+                            "text":  "London is crossed by the River Thames."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp3_case019",
+        "difficulty":  "easy",
+        "question":  "What instrument did the composer of The Four Seasons mainly play?",
+        "gold_answer":  "violin",
+        "context":  [
+                        {
+                            "title":  "The Four Seasons",
+                            "text":  "The Four Seasons is a group of violin concertos by Antonio Vivaldi."
+                        },
+                        {
+                            "title":  "Antonio Vivaldi",
+                            "text":  "Antonio Vivaldi was an Italian Baroque composer and virtuoso violinist."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp4_case020",
+        "difficulty":  "medium",
+        "question":  "Which ocean borders the country whose capital is Lima?",
+        "gold_answer":  "Pacific Ocean",
+        "context":  [
+                        {
+                            "title":  "Lima",
+                            "text":  "Lima is the capital city of Peru."
+                        },
+                        {
+                            "title":  "Peru",
+                            "text":  "Peru borders the Pacific Ocean."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp5_case021",
+        "difficulty":  "easy",
+        "question":  "What field did the scientist who proposed the three laws of motion study in addition to physics?",
+        "gold_answer":  "mathematics",
+        "context":  [
+                        {
+                            "title":  "Isaac Newton",
+                            "text":  "Isaac Newton formulated the laws of motion and was a physicist and mathematician."
+                        },
+                        {
+                            "title":  "Laws of motion",
+                            "text":  "The three laws of motion are attributed to Isaac Newton."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp6_case022",
+        "difficulty":  "hard",
+        "question":  "What sea borders the country where Petra is located?",
+        "gold_answer":  "Dead Sea",
+        "context":  [
+                        {
+                            "title":  "Petra",
+                            "text":  "Petra is a historical city in Jordan."
+                        },
+                        {
+                            "title":  "Jordan",
+                            "text":  "Jordan borders the Dead Sea to the west."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp7_case023",
+        "difficulty":  "medium",
+        "question":  "Which language family does the primary language of Brazil belong to?",
+        "gold_answer":  "Romance",
+        "context":  [
+                        {
+                            "title":  "Brazil",
+                            "text":  "The official language of Brazil is Portuguese."
+                        },
+                        {
+                            "title":  "Portuguese language",
+                            "text":  "Portuguese is a Romance language."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp8_case024",
+        "difficulty":  "hard",
+        "question":  "Which mountain range contains the highest mountain in the country whose capital is Kathmandu?",
+        "gold_answer":  "Himalayas",
+        "context":  [
+                        {
+                            "title":  "Kathmandu",
+                            "text":  "Kathmandu is the capital city of Nepal."
+                        },
+                        {
+                            "title":  "Nepal",
+                            "text":  "Mount Everest, the highest mountain in Nepal, is part of the Himalayas."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp1_case025",
+        "difficulty":  "easy",
+        "question":  "Which university did the author of The Hobbit teach at?",
+        "gold_answer":  "Oxford University",
+        "context":  [
+                        {
+                            "title":  "J. R. R. Tolkien",
+                            "text":  "J. R. R. Tolkien wrote The Hobbit and was a professor at Oxford University."
+                        },
+                        {
+                            "title":  "Oxford University",
+                            "text":  "Oxford University is a collegiate research university in Oxford, England."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp2_case026",
+        "difficulty":  "medium",
+        "question":  "What river flows through the city where Ada Lovelace was born?",
+        "gold_answer":  "River Thames",
+        "context":  [
+                        {
+                            "title":  "Ada Lovelace",
+                            "text":  "Ada Lovelace was born in London, England."
+                        },
+                        {
+                            "title":  "London",
+                            "text":  "London is crossed by the River Thames."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp3_case027",
+        "difficulty":  "easy",
+        "question":  "What instrument did the composer of The Four Seasons mainly play?",
+        "gold_answer":  "violin",
+        "context":  [
+                        {
+                            "title":  "The Four Seasons",
+                            "text":  "The Four Seasons is a group of violin concertos by Antonio Vivaldi."
+                        },
+                        {
+                            "title":  "Antonio Vivaldi",
+                            "text":  "Antonio Vivaldi was an Italian Baroque composer and virtuoso violinist."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp4_case028",
+        "difficulty":  "medium",
+        "question":  "Which ocean borders the country whose capital is Lima?",
+        "gold_answer":  "Pacific Ocean",
+        "context":  [
+                        {
+                            "title":  "Lima",
+                            "text":  "Lima is the capital city of Peru."
+                        },
+                        {
+                            "title":  "Peru",
+                            "text":  "Peru borders the Pacific Ocean."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp5_case029",
+        "difficulty":  "easy",
+        "question":  "What field did the scientist who proposed the three laws of motion study in addition to physics?",
+        "gold_answer":  "mathematics",
+        "context":  [
+                        {
+                            "title":  "Isaac Newton",
+                            "text":  "Isaac Newton formulated the laws of motion and was a physicist and mathematician."
+                        },
+                        {
+                            "title":  "Laws of motion",
+                            "text":  "The three laws of motion are attributed to Isaac Newton."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp6_case030",
+        "difficulty":  "hard",
+        "question":  "What sea borders the country where Petra is located?",
+        "gold_answer":  "Dead Sea",
+        "context":  [
+                        {
+                            "title":  "Petra",
+                            "text":  "Petra is a historical city in Jordan."
+                        },
+                        {
+                            "title":  "Jordan",
+                            "text":  "Jordan borders the Dead Sea to the west."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp7_case031",
+        "difficulty":  "medium",
+        "question":  "Which language family does the primary language of Brazil belong to?",
+        "gold_answer":  "Romance",
+        "context":  [
+                        {
+                            "title":  "Brazil",
+                            "text":  "The official language of Brazil is Portuguese."
+                        },
+                        {
+                            "title":  "Portuguese language",
+                            "text":  "Portuguese is a Romance language."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp8_case032",
+        "difficulty":  "hard",
+        "question":  "Which mountain range contains the highest mountain in the country whose capital is Kathmandu?",
+        "gold_answer":  "Himalayas",
+        "context":  [
+                        {
+                            "title":  "Kathmandu",
+                            "text":  "Kathmandu is the capital city of Nepal."
+                        },
+                        {
+                            "title":  "Nepal",
+                            "text":  "Mount Everest, the highest mountain in Nepal, is part of the Himalayas."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp1_case033",
+        "difficulty":  "easy",
+        "question":  "Which university did the author of The Hobbit teach at?",
+        "gold_answer":  "Oxford University",
+        "context":  [
+                        {
+                            "title":  "J. R. R. Tolkien",
+                            "text":  "J. R. R. Tolkien wrote The Hobbit and was a professor at Oxford University."
+                        },
+                        {
+                            "title":  "Oxford University",
+                            "text":  "Oxford University is a collegiate research university in Oxford, England."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp2_case034",
+        "difficulty":  "medium",
+        "question":  "What river flows through the city where Ada Lovelace was born?",
+        "gold_answer":  "River Thames",
+        "context":  [
+                        {
+                            "title":  "Ada Lovelace",
+                            "text":  "Ada Lovelace was born in London, England."
+                        },
+                        {
+                            "title":  "London",
+                            "text":  "London is crossed by the River Thames."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp3_case035",
+        "difficulty":  "easy",
+        "question":  "What instrument did the composer of The Four Seasons mainly play?",
+        "gold_answer":  "violin",
+        "context":  [
+                        {
+                            "title":  "The Four Seasons",
+                            "text":  "The Four Seasons is a group of violin concertos by Antonio Vivaldi."
+                        },
+                        {
+                            "title":  "Antonio Vivaldi",
+                            "text":  "Antonio Vivaldi was an Italian Baroque composer and virtuoso violinist."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp4_case036",
+        "difficulty":  "medium",
+        "question":  "Which ocean borders the country whose capital is Lima?",
+        "gold_answer":  "Pacific Ocean",
+        "context":  [
+                        {
+                            "title":  "Lima",
+                            "text":  "Lima is the capital city of Peru."
+                        },
+                        {
+                            "title":  "Peru",
+                            "text":  "Peru borders the Pacific Ocean."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp5_case037",
+        "difficulty":  "easy",
+        "question":  "What field did the scientist who proposed the three laws of motion study in addition to physics?",
+        "gold_answer":  "mathematics",
+        "context":  [
+                        {
+                            "title":  "Isaac Newton",
+                            "text":  "Isaac Newton formulated the laws of motion and was a physicist and mathematician."
+                        },
+                        {
+                            "title":  "Laws of motion",
+                            "text":  "The three laws of motion are attributed to Isaac Newton."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp6_case038",
+        "difficulty":  "hard",
+        "question":  "What sea borders the country where Petra is located?",
+        "gold_answer":  "Dead Sea",
+        "context":  [
+                        {
+                            "title":  "Petra",
+                            "text":  "Petra is a historical city in Jordan."
+                        },
+                        {
+                            "title":  "Jordan",
+                            "text":  "Jordan borders the Dead Sea to the west."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp7_case039",
+        "difficulty":  "medium",
+        "question":  "Which language family does the primary language of Brazil belong to?",
+        "gold_answer":  "Romance",
+        "context":  [
+                        {
+                            "title":  "Brazil",
+                            "text":  "The official language of Brazil is Portuguese."
+                        },
+                        {
+                            "title":  "Portuguese language",
+                            "text":  "Portuguese is a Romance language."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp8_case040",
+        "difficulty":  "hard",
+        "question":  "Which mountain range contains the highest mountain in the country whose capital is Kathmandu?",
+        "gold_answer":  "Himalayas",
+        "context":  [
+                        {
+                            "title":  "Kathmandu",
+                            "text":  "Kathmandu is the capital city of Nepal."
+                        },
+                        {
+                            "title":  "Nepal",
+                            "text":  "Mount Everest, the highest mountain in Nepal, is part of the Himalayas."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp1_case041",
+        "difficulty":  "easy",
+        "question":  "Which university did the author of The Hobbit teach at?",
+        "gold_answer":  "Oxford University",
+        "context":  [
+                        {
+                            "title":  "J. R. R. Tolkien",
+                            "text":  "J. R. R. Tolkien wrote The Hobbit and was a professor at Oxford University."
+                        },
+                        {
+                            "title":  "Oxford University",
+                            "text":  "Oxford University is a collegiate research university in Oxford, England."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp2_case042",
+        "difficulty":  "medium",
+        "question":  "What river flows through the city where Ada Lovelace was born?",
+        "gold_answer":  "River Thames",
+        "context":  [
+                        {
+                            "title":  "Ada Lovelace",
+                            "text":  "Ada Lovelace was born in London, England."
+                        },
+                        {
+                            "title":  "London",
+                            "text":  "London is crossed by the River Thames."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp3_case043",
+        "difficulty":  "easy",
+        "question":  "What instrument did the composer of The Four Seasons mainly play?",
+        "gold_answer":  "violin",
+        "context":  [
+                        {
+                            "title":  "The Four Seasons",
+                            "text":  "The Four Seasons is a group of violin concertos by Antonio Vivaldi."
+                        },
+                        {
+                            "title":  "Antonio Vivaldi",
+                            "text":  "Antonio Vivaldi was an Italian Baroque composer and virtuoso violinist."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp4_case044",
+        "difficulty":  "medium",
+        "question":  "Which ocean borders the country whose capital is Lima?",
+        "gold_answer":  "Pacific Ocean",
+        "context":  [
+                        {
+                            "title":  "Lima",
+                            "text":  "Lima is the capital city of Peru."
+                        },
+                        {
+                            "title":  "Peru",
+                            "text":  "Peru borders the Pacific Ocean."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp5_case045",
+        "difficulty":  "easy",
+        "question":  "What field did the scientist who proposed the three laws of motion study in addition to physics?",
+        "gold_answer":  "mathematics",
+        "context":  [
+                        {
+                            "title":  "Isaac Newton",
+                            "text":  "Isaac Newton formulated the laws of motion and was a physicist and mathematician."
+                        },
+                        {
+                            "title":  "Laws of motion",
+                            "text":  "The three laws of motion are attributed to Isaac Newton."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp6_case046",
+        "difficulty":  "hard",
+        "question":  "What sea borders the country where Petra is located?",
+        "gold_answer":  "Dead Sea",
+        "context":  [
+                        {
+                            "title":  "Petra",
+                            "text":  "Petra is a historical city in Jordan."
+                        },
+                        {
+                            "title":  "Jordan",
+                            "text":  "Jordan borders the Dead Sea to the west."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp7_case047",
+        "difficulty":  "medium",
+        "question":  "Which language family does the primary language of Brazil belong to?",
+        "gold_answer":  "Romance",
+        "context":  [
+                        {
+                            "title":  "Brazil",
+                            "text":  "The official language of Brazil is Portuguese."
+                        },
+                        {
+                            "title":  "Portuguese language",
+                            "text":  "Portuguese is a Romance language."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp8_case048",
+        "difficulty":  "hard",
+        "question":  "Which mountain range contains the highest mountain in the country whose capital is Kathmandu?",
+        "gold_answer":  "Himalayas",
+        "context":  [
+                        {
+                            "title":  "Kathmandu",
+                            "text":  "Kathmandu is the capital city of Nepal."
+                        },
+                        {
+                            "title":  "Nepal",
+                            "text":  "Mount Everest, the highest mountain in Nepal, is part of the Himalayas."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp1_case049",
+        "difficulty":  "easy",
+        "question":  "Which university did the author of The Hobbit teach at?",
+        "gold_answer":  "Oxford University",
+        "context":  [
+                        {
+                            "title":  "J. R. R. Tolkien",
+                            "text":  "J. R. R. Tolkien wrote The Hobbit and was a professor at Oxford University."
+                        },
+                        {
+                            "title":  "Oxford University",
+                            "text":  "Oxford University is a collegiate research university in Oxford, England."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp2_case050",
+        "difficulty":  "medium",
+        "question":  "What river flows through the city where Ada Lovelace was born?",
+        "gold_answer":  "River Thames",
+        "context":  [
+                        {
+                            "title":  "Ada Lovelace",
+                            "text":  "Ada Lovelace was born in London, England."
+                        },
+                        {
+                            "title":  "London",
+                            "text":  "London is crossed by the River Thames."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp3_case051",
+        "difficulty":  "easy",
+        "question":  "What instrument did the composer of The Four Seasons mainly play?",
+        "gold_answer":  "violin",
+        "context":  [
+                        {
+                            "title":  "The Four Seasons",
+                            "text":  "The Four Seasons is a group of violin concertos by Antonio Vivaldi."
+                        },
+                        {
+                            "title":  "Antonio Vivaldi",
+                            "text":  "Antonio Vivaldi was an Italian Baroque composer and virtuoso violinist."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp4_case052",
+        "difficulty":  "medium",
+        "question":  "Which ocean borders the country whose capital is Lima?",
+        "gold_answer":  "Pacific Ocean",
+        "context":  [
+                        {
+                            "title":  "Lima",
+                            "text":  "Lima is the capital city of Peru."
+                        },
+                        {
+                            "title":  "Peru",
+                            "text":  "Peru borders the Pacific Ocean."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp5_case053",
+        "difficulty":  "easy",
+        "question":  "What field did the scientist who proposed the three laws of motion study in addition to physics?",
+        "gold_answer":  "mathematics",
+        "context":  [
+                        {
+                            "title":  "Isaac Newton",
+                            "text":  "Isaac Newton formulated the laws of motion and was a physicist and mathematician."
+                        },
+                        {
+                            "title":  "Laws of motion",
+                            "text":  "The three laws of motion are attributed to Isaac Newton."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp6_case054",
+        "difficulty":  "hard",
+        "question":  "What sea borders the country where Petra is located?",
+        "gold_answer":  "Dead Sea",
+        "context":  [
+                        {
+                            "title":  "Petra",
+                            "text":  "Petra is a historical city in Jordan."
+                        },
+                        {
+                            "title":  "Jordan",
+                            "text":  "Jordan borders the Dead Sea to the west."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp7_case055",
+        "difficulty":  "medium",
+        "question":  "Which language family does the primary language of Brazil belong to?",
+        "gold_answer":  "Romance",
+        "context":  [
+                        {
+                            "title":  "Brazil",
+                            "text":  "The official language of Brazil is Portuguese."
+                        },
+                        {
+                            "title":  "Portuguese language",
+                            "text":  "Portuguese is a Romance language."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp8_case056",
+        "difficulty":  "hard",
+        "question":  "Which mountain range contains the highest mountain in the country whose capital is Kathmandu?",
+        "gold_answer":  "Himalayas",
+        "context":  [
+                        {
+                            "title":  "Kathmandu",
+                            "text":  "Kathmandu is the capital city of Nepal."
+                        },
+                        {
+                            "title":  "Nepal",
+                            "text":  "Mount Everest, the highest mountain in Nepal, is part of the Himalayas."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp1_case057",
+        "difficulty":  "easy",
+        "question":  "Which university did the author of The Hobbit teach at?",
+        "gold_answer":  "Oxford University",
+        "context":  [
+                        {
+                            "title":  "J. R. R. Tolkien",
+                            "text":  "J. R. R. Tolkien wrote The Hobbit and was a professor at Oxford University."
+                        },
+                        {
+                            "title":  "Oxford University",
+                            "text":  "Oxford University is a collegiate research university in Oxford, England."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp2_case058",
+        "difficulty":  "medium",
+        "question":  "What river flows through the city where Ada Lovelace was born?",
+        "gold_answer":  "River Thames",
+        "context":  [
+                        {
+                            "title":  "Ada Lovelace",
+                            "text":  "Ada Lovelace was born in London, England."
+                        },
+                        {
+                            "title":  "London",
+                            "text":  "London is crossed by the River Thames."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp3_case059",
+        "difficulty":  "easy",
+        "question":  "What instrument did the composer of The Four Seasons mainly play?",
+        "gold_answer":  "violin",
+        "context":  [
+                        {
+                            "title":  "The Four Seasons",
+                            "text":  "The Four Seasons is a group of violin concertos by Antonio Vivaldi."
+                        },
+                        {
+                            "title":  "Antonio Vivaldi",
+                            "text":  "Antonio Vivaldi was an Italian Baroque composer and virtuoso violinist."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp4_case060",
+        "difficulty":  "medium",
+        "question":  "Which ocean borders the country whose capital is Lima?",
+        "gold_answer":  "Pacific Ocean",
+        "context":  [
+                        {
+                            "title":  "Lima",
+                            "text":  "Lima is the capital city of Peru."
+                        },
+                        {
+                            "title":  "Peru",
+                            "text":  "Peru borders the Pacific Ocean."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp5_case061",
+        "difficulty":  "easy",
+        "question":  "What field did the scientist who proposed the three laws of motion study in addition to physics?",
+        "gold_answer":  "mathematics",
+        "context":  [
+                        {
+                            "title":  "Isaac Newton",
+                            "text":  "Isaac Newton formulated the laws of motion and was a physicist and mathematician."
+                        },
+                        {
+                            "title":  "Laws of motion",
+                            "text":  "The three laws of motion are attributed to Isaac Newton."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp6_case062",
+        "difficulty":  "hard",
+        "question":  "What sea borders the country where Petra is located?",
+        "gold_answer":  "Dead Sea",
+        "context":  [
+                        {
+                            "title":  "Petra",
+                            "text":  "Petra is a historical city in Jordan."
+                        },
+                        {
+                            "title":  "Jordan",
+                            "text":  "Jordan borders the Dead Sea to the west."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp7_case063",
+        "difficulty":  "medium",
+        "question":  "Which language family does the primary language of Brazil belong to?",
+        "gold_answer":  "Romance",
+        "context":  [
+                        {
+                            "title":  "Brazil",
+                            "text":  "The official language of Brazil is Portuguese."
+                        },
+                        {
+                            "title":  "Portuguese language",
+                            "text":  "Portuguese is a Romance language."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp8_case064",
+        "difficulty":  "hard",
+        "question":  "Which mountain range contains the highest mountain in the country whose capital is Kathmandu?",
+        "gold_answer":  "Himalayas",
+        "context":  [
+                        {
+                            "title":  "Kathmandu",
+                            "text":  "Kathmandu is the capital city of Nepal."
+                        },
+                        {
+                            "title":  "Nepal",
+                            "text":  "Mount Everest, the highest mountain in Nepal, is part of the Himalayas."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp1_case065",
+        "difficulty":  "easy",
+        "question":  "Which university did the author of The Hobbit teach at?",
+        "gold_answer":  "Oxford University",
+        "context":  [
+                        {
+                            "title":  "J. R. R. Tolkien",
+                            "text":  "J. R. R. Tolkien wrote The Hobbit and was a professor at Oxford University."
+                        },
+                        {
+                            "title":  "Oxford University",
+                            "text":  "Oxford University is a collegiate research university in Oxford, England."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp2_case066",
+        "difficulty":  "medium",
+        "question":  "What river flows through the city where Ada Lovelace was born?",
+        "gold_answer":  "River Thames",
+        "context":  [
+                        {
+                            "title":  "Ada Lovelace",
+                            "text":  "Ada Lovelace was born in London, England."
+                        },
+                        {
+                            "title":  "London",
+                            "text":  "London is crossed by the River Thames."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp3_case067",
+        "difficulty":  "easy",
+        "question":  "What instrument did the composer of The Four Seasons mainly play?",
+        "gold_answer":  "violin",
+        "context":  [
+                        {
+                            "title":  "The Four Seasons",
+                            "text":  "The Four Seasons is a group of violin concertos by Antonio Vivaldi."
+                        },
+                        {
+                            "title":  "Antonio Vivaldi",
+                            "text":  "Antonio Vivaldi was an Italian Baroque composer and virtuoso violinist."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp4_case068",
+        "difficulty":  "medium",
+        "question":  "Which ocean borders the country whose capital is Lima?",
+        "gold_answer":  "Pacific Ocean",
+        "context":  [
+                        {
+                            "title":  "Lima",
+                            "text":  "Lima is the capital city of Peru."
+                        },
+                        {
+                            "title":  "Peru",
+                            "text":  "Peru borders the Pacific Ocean."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp5_case069",
+        "difficulty":  "easy",
+        "question":  "What field did the scientist who proposed the three laws of motion study in addition to physics?",
+        "gold_answer":  "mathematics",
+        "context":  [
+                        {
+                            "title":  "Isaac Newton",
+                            "text":  "Isaac Newton formulated the laws of motion and was a physicist and mathematician."
+                        },
+                        {
+                            "title":  "Laws of motion",
+                            "text":  "The three laws of motion are attributed to Isaac Newton."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp6_case070",
+        "difficulty":  "hard",
+        "question":  "What sea borders the country where Petra is located?",
+        "gold_answer":  "Dead Sea",
+        "context":  [
+                        {
+                            "title":  "Petra",
+                            "text":  "Petra is a historical city in Jordan."
+                        },
+                        {
+                            "title":  "Jordan",
+                            "text":  "Jordan borders the Dead Sea to the west."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp7_case071",
+        "difficulty":  "medium",
+        "question":  "Which language family does the primary language of Brazil belong to?",
+        "gold_answer":  "Romance",
+        "context":  [
+                        {
+                            "title":  "Brazil",
+                            "text":  "The official language of Brazil is Portuguese."
+                        },
+                        {
+                            "title":  "Portuguese language",
+                            "text":  "Portuguese is a Romance language."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp8_case072",
+        "difficulty":  "hard",
+        "question":  "Which mountain range contains the highest mountain in the country whose capital is Kathmandu?",
+        "gold_answer":  "Himalayas",
+        "context":  [
+                        {
+                            "title":  "Kathmandu",
+                            "text":  "Kathmandu is the capital city of Nepal."
+                        },
+                        {
+                            "title":  "Nepal",
+                            "text":  "Mount Everest, the highest mountain in Nepal, is part of the Himalayas."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp1_case073",
+        "difficulty":  "easy",
+        "question":  "Which university did the author of The Hobbit teach at?",
+        "gold_answer":  "Oxford University",
+        "context":  [
+                        {
+                            "title":  "J. R. R. Tolkien",
+                            "text":  "J. R. R. Tolkien wrote The Hobbit and was a professor at Oxford University."
+                        },
+                        {
+                            "title":  "Oxford University",
+                            "text":  "Oxford University is a collegiate research university in Oxford, England."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp2_case074",
+        "difficulty":  "medium",
+        "question":  "What river flows through the city where Ada Lovelace was born?",
+        "gold_answer":  "River Thames",
+        "context":  [
+                        {
+                            "title":  "Ada Lovelace",
+                            "text":  "Ada Lovelace was born in London, England."
+                        },
+                        {
+                            "title":  "London",
+                            "text":  "London is crossed by the River Thames."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp3_case075",
+        "difficulty":  "easy",
+        "question":  "What instrument did the composer of The Four Seasons mainly play?",
+        "gold_answer":  "violin",
+        "context":  [
+                        {
+                            "title":  "The Four Seasons",
+                            "text":  "The Four Seasons is a group of violin concertos by Antonio Vivaldi."
+                        },
+                        {
+                            "title":  "Antonio Vivaldi",
+                            "text":  "Antonio Vivaldi was an Italian Baroque composer and virtuoso violinist."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp4_case076",
+        "difficulty":  "medium",
+        "question":  "Which ocean borders the country whose capital is Lima?",
+        "gold_answer":  "Pacific Ocean",
+        "context":  [
+                        {
+                            "title":  "Lima",
+                            "text":  "Lima is the capital city of Peru."
+                        },
+                        {
+                            "title":  "Peru",
+                            "text":  "Peru borders the Pacific Ocean."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp5_case077",
+        "difficulty":  "easy",
+        "question":  "What field did the scientist who proposed the three laws of motion study in addition to physics?",
+        "gold_answer":  "mathematics",
+        "context":  [
+                        {
+                            "title":  "Isaac Newton",
+                            "text":  "Isaac Newton formulated the laws of motion and was a physicist and mathematician."
+                        },
+                        {
+                            "title":  "Laws of motion",
+                            "text":  "The three laws of motion are attributed to Isaac Newton."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp6_case078",
+        "difficulty":  "hard",
+        "question":  "What sea borders the country where Petra is located?",
+        "gold_answer":  "Dead Sea",
+        "context":  [
+                        {
+                            "title":  "Petra",
+                            "text":  "Petra is a historical city in Jordan."
+                        },
+                        {
+                            "title":  "Jordan",
+                            "text":  "Jordan borders the Dead Sea to the west."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp7_case079",
+        "difficulty":  "medium",
+        "question":  "Which language family does the primary language of Brazil belong to?",
+        "gold_answer":  "Romance",
+        "context":  [
+                        {
+                            "title":  "Brazil",
+                            "text":  "The official language of Brazil is Portuguese."
+                        },
+                        {
+                            "title":  "Portuguese language",
+                            "text":  "Portuguese is a Romance language."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp8_case080",
+        "difficulty":  "hard",
+        "question":  "Which mountain range contains the highest mountain in the country whose capital is Kathmandu?",
+        "gold_answer":  "Himalayas",
+        "context":  [
+                        {
+                            "title":  "Kathmandu",
+                            "text":  "Kathmandu is the capital city of Nepal."
+                        },
+                        {
+                            "title":  "Nepal",
+                            "text":  "Mount Everest, the highest mountain in Nepal, is part of the Himalayas."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp1_case081",
+        "difficulty":  "easy",
+        "question":  "Which university did the author of The Hobbit teach at?",
+        "gold_answer":  "Oxford University",
+        "context":  [
+                        {
+                            "title":  "J. R. R. Tolkien",
+                            "text":  "J. R. R. Tolkien wrote The Hobbit and was a professor at Oxford University."
+                        },
+                        {
+                            "title":  "Oxford University",
+                            "text":  "Oxford University is a collegiate research university in Oxford, England."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp2_case082",
+        "difficulty":  "medium",
+        "question":  "What river flows through the city where Ada Lovelace was born?",
+        "gold_answer":  "River Thames",
+        "context":  [
+                        {
+                            "title":  "Ada Lovelace",
+                            "text":  "Ada Lovelace was born in London, England."
+                        },
+                        {
+                            "title":  "London",
+                            "text":  "London is crossed by the River Thames."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp3_case083",
+        "difficulty":  "easy",
+        "question":  "What instrument did the composer of The Four Seasons mainly play?",
+        "gold_answer":  "violin",
+        "context":  [
+                        {
+                            "title":  "The Four Seasons",
+                            "text":  "The Four Seasons is a group of violin concertos by Antonio Vivaldi."
+                        },
+                        {
+                            "title":  "Antonio Vivaldi",
+                            "text":  "Antonio Vivaldi was an Italian Baroque composer and virtuoso violinist."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp4_case084",
+        "difficulty":  "medium",
+        "question":  "Which ocean borders the country whose capital is Lima?",
+        "gold_answer":  "Pacific Ocean",
+        "context":  [
+                        {
+                            "title":  "Lima",
+                            "text":  "Lima is the capital city of Peru."
+                        },
+                        {
+                            "title":  "Peru",
+                            "text":  "Peru borders the Pacific Ocean."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp5_case085",
+        "difficulty":  "easy",
+        "question":  "What field did the scientist who proposed the three laws of motion study in addition to physics?",
+        "gold_answer":  "mathematics",
+        "context":  [
+                        {
+                            "title":  "Isaac Newton",
+                            "text":  "Isaac Newton formulated the laws of motion and was a physicist and mathematician."
+                        },
+                        {
+                            "title":  "Laws of motion",
+                            "text":  "The three laws of motion are attributed to Isaac Newton."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp6_case086",
+        "difficulty":  "hard",
+        "question":  "What sea borders the country where Petra is located?",
+        "gold_answer":  "Dead Sea",
+        "context":  [
+                        {
+                            "title":  "Petra",
+                            "text":  "Petra is a historical city in Jordan."
+                        },
+                        {
+                            "title":  "Jordan",
+                            "text":  "Jordan borders the Dead Sea to the west."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp7_case087",
+        "difficulty":  "medium",
+        "question":  "Which language family does the primary language of Brazil belong to?",
+        "gold_answer":  "Romance",
+        "context":  [
+                        {
+                            "title":  "Brazil",
+                            "text":  "The official language of Brazil is Portuguese."
+                        },
+                        {
+                            "title":  "Portuguese language",
+                            "text":  "Portuguese is a Romance language."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp8_case088",
+        "difficulty":  "hard",
+        "question":  "Which mountain range contains the highest mountain in the country whose capital is Kathmandu?",
+        "gold_answer":  "Himalayas",
+        "context":  [
+                        {
+                            "title":  "Kathmandu",
+                            "text":  "Kathmandu is the capital city of Nepal."
+                        },
+                        {
+                            "title":  "Nepal",
+                            "text":  "Mount Everest, the highest mountain in Nepal, is part of the Himalayas."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp1_case089",
+        "difficulty":  "easy",
+        "question":  "Which university did the author of The Hobbit teach at?",
+        "gold_answer":  "Oxford University",
+        "context":  [
+                        {
+                            "title":  "J. R. R. Tolkien",
+                            "text":  "J. R. R. Tolkien wrote The Hobbit and was a professor at Oxford University."
+                        },
+                        {
+                            "title":  "Oxford University",
+                            "text":  "Oxford University is a collegiate research university in Oxford, England."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp2_case090",
+        "difficulty":  "medium",
+        "question":  "What river flows through the city where Ada Lovelace was born?",
+        "gold_answer":  "River Thames",
+        "context":  [
+                        {
+                            "title":  "Ada Lovelace",
+                            "text":  "Ada Lovelace was born in London, England."
+                        },
+                        {
+                            "title":  "London",
+                            "text":  "London is crossed by the River Thames."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp3_case091",
+        "difficulty":  "easy",
+        "question":  "What instrument did the composer of The Four Seasons mainly play?",
+        "gold_answer":  "violin",
+        "context":  [
+                        {
+                            "title":  "The Four Seasons",
+                            "text":  "The Four Seasons is a group of violin concertos by Antonio Vivaldi."
+                        },
+                        {
+                            "title":  "Antonio Vivaldi",
+                            "text":  "Antonio Vivaldi was an Italian Baroque composer and virtuoso violinist."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp4_case092",
+        "difficulty":  "medium",
+        "question":  "Which ocean borders the country whose capital is Lima?",
+        "gold_answer":  "Pacific Ocean",
+        "context":  [
+                        {
+                            "title":  "Lima",
+                            "text":  "Lima is the capital city of Peru."
+                        },
+                        {
+                            "title":  "Peru",
+                            "text":  "Peru borders the Pacific Ocean."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp5_case093",
+        "difficulty":  "easy",
+        "question":  "What field did the scientist who proposed the three laws of motion study in addition to physics?",
+        "gold_answer":  "mathematics",
+        "context":  [
+                        {
+                            "title":  "Isaac Newton",
+                            "text":  "Isaac Newton formulated the laws of motion and was a physicist and mathematician."
+                        },
+                        {
+                            "title":  "Laws of motion",
+                            "text":  "The three laws of motion are attributed to Isaac Newton."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp6_case094",
+        "difficulty":  "hard",
+        "question":  "What sea borders the country where Petra is located?",
+        "gold_answer":  "Dead Sea",
+        "context":  [
+                        {
+                            "title":  "Petra",
+                            "text":  "Petra is a historical city in Jordan."
+                        },
+                        {
+                            "title":  "Jordan",
+                            "text":  "Jordan borders the Dead Sea to the west."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp7_case095",
+        "difficulty":  "medium",
+        "question":  "Which language family does the primary language of Brazil belong to?",
+        "gold_answer":  "Romance",
+        "context":  [
+                        {
+                            "title":  "Brazil",
+                            "text":  "The official language of Brazil is Portuguese."
+                        },
+                        {
+                            "title":  "Portuguese language",
+                            "text":  "Portuguese is a Romance language."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp8_case096",
+        "difficulty":  "hard",
+        "question":  "Which mountain range contains the highest mountain in the country whose capital is Kathmandu?",
+        "gold_answer":  "Himalayas",
+        "context":  [
+                        {
+                            "title":  "Kathmandu",
+                            "text":  "Kathmandu is the capital city of Nepal."
+                        },
+                        {
+                            "title":  "Nepal",
+                            "text":  "Mount Everest, the highest mountain in Nepal, is part of the Himalayas."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp1_case097",
+        "difficulty":  "easy",
+        "question":  "Which university did the author of The Hobbit teach at?",
+        "gold_answer":  "Oxford University",
+        "context":  [
+                        {
+                            "title":  "J. R. R. Tolkien",
+                            "text":  "J. R. R. Tolkien wrote The Hobbit and was a professor at Oxford University."
+                        },
+                        {
+                            "title":  "Oxford University",
+                            "text":  "Oxford University is a collegiate research university in Oxford, England."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp2_case098",
+        "difficulty":  "medium",
+        "question":  "What river flows through the city where Ada Lovelace was born?",
+        "gold_answer":  "River Thames",
+        "context":  [
+                        {
+                            "title":  "Ada Lovelace",
+                            "text":  "Ada Lovelace was born in London, England."
+                        },
+                        {
+                            "title":  "London",
+                            "text":  "London is crossed by the River Thames."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp3_case099",
+        "difficulty":  "easy",
+        "question":  "What instrument did the composer of The Four Seasons mainly play?",
+        "gold_answer":  "violin",
+        "context":  [
+                        {
+                            "title":  "The Four Seasons",
+                            "text":  "The Four Seasons is a group of violin concertos by Antonio Vivaldi."
+                        },
+                        {
+                            "title":  "Antonio Vivaldi",
+                            "text":  "Antonio Vivaldi was an Italian Baroque composer and virtuoso violinist."
+                        }
+                    ]
+    },
+    {
+        "qid":  "hp4_case100",
+        "difficulty":  "medium",
+        "question":  "Which ocean borders the country whose capital is Lima?",
+        "gold_answer":  "Pacific Ocean",
+        "context":  [
+                        {
+                            "title":  "Lima",
+                            "text":  "Lima is the capital city of Peru."
+                        },
+                        {
+                            "title":  "Peru",
+                            "text":  "Peru borders the Pacific Ocean."
+                        }
+                    ]
+    }
+]
